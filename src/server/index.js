@@ -19,7 +19,7 @@ console.log(__dirname);
 
 
 app.get('/', function (req, res) {
-    res.send(res.sendFile('dist/index.html'));
+    res.sendFile(path.join(__dirname, 'dist', 'index.html'));;
 });
 
 

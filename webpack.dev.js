@@ -14,10 +14,9 @@ module.exports = {
                 test: /\.js$/,
                 exclude: /node_modules/,
                 loader: "babel-loader",
-                targets: "defaults",
-                 presets: [
-            ['@babel/preset-env']
-          ]
+                options: {
+                    presets: ['@babel/preset-env'] // Move presets here
+                }
             },
             {
                 test: /\.scss$/,
