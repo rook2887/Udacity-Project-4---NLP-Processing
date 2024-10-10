@@ -1,0 +1,29 @@
+[33mcommit 46b08c9a2278cbb4a201ff4c34ff302e78bafb9e[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mohamed Hassan <mohamedhassanwork2887@gmail.com>
+Date:   Wed Oct 9 13:13:01 2024 +0300
+
+    part 1
+
+[33mcommit 56b51188f112c884daadda0c986e9c509204a352[m
+Author: Mohamed Hassan <mohamedhassanwork2887@gmail.com>
+Date:   Wed Oct 9 13:06:19 2024 +0300
+
+    build-prod
+
+[33mcommit 058bb75f650674ab952e6b752b31add1a9a0b5a8[m
+Author: Mohamed Hassan <mohamedhassanwork2887@gmail.com>
+Date:   Wed Oct 9 12:49:21 2024 +0300
+
+    before sass
+
+[33mcommit 2b36c6202017437db2af6e6a9f2b54456f2fd998[m
+Author: Mohamed Hassan <mohamedhassanwork2887@gmail.com>
+Date:   Wed Oct 9 12:43:06 2024 +0300
+
+    Babel
+
+[33mcommit 55361ac9d5d9253ac7b071c4fa4501b08a12a096[m
+Author: Mohamed Hassan <mohamedhassanwork2887@gmail.com>
+Date:   Wed Oct 9 12:29:52 2024 +0300
+
+    Webpack Entry
